@@ -1,0 +1,45 @@
+name: TeamUp
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2021.4.13
+  - certifi=2020.12.5
+  - click=7.1.2
+  - flask=1.1.2
+  - itsdangerous=1.1.0
+  - jinja2=2.11.3
+  - libcxx=10.0.0
+  - libffi=3.3
+  - markupsafe=1.1.1
+  - ncurses=6.2
+  - openssl=1.1.1k
+  - pip=21.0.1
+  - python=3.8.8
+  - readline=8.1
+  - setuptools=52.0.0
+  - sqlite=3.35.4
+  - tk=8.6.10
+  - werkzeug=1.0.1
+  - wheel=0.36.2
+  - xz=5.2.5
+  - zlib=1.2.11
+  - pip:
+    - aniso8601==9.0.1
+    - attrs==21.2.0
+    - bcrypt==3.2.0
+    - cffi==1.14.5
+    - cryptography==3.4.7
+    - flask-bcrypt==0.7.1
+    - flask-cors==3.0.10
+    - flask-restx==0.3.0
+    - flask-sqlalchemy==2.5.1
+    - greenlet==1.1.0
+    - jsonschema==3.2.0
+    - jwt==1.2.0
+    - psycopg2-binary==2.8.6
+    - pycparser==2.20
+    - pyrsistent==0.17.3
+    - python-dotenv==0.17.1
+    - pytz==2021.1
+    - sqlalchemy==1.4.14
+prefix: /Users/femu/opt/anaconda3/envs/TeamUp
